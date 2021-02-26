@@ -31,6 +31,6 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me all about entering data science, what does it mean to be a DS, etc. - I'm happy to provide guidance
-- 📫 How to reach me: [Twitter](https://twitter.com/m_letitbe) is great! LinkedIn works too.
+- 📫 How to reach me: [Twitter](https://twitter.com/m_letitbe) is great! [LinkedIn](https://www.linkedin.com/in/martinapugliese/) works too.
 - 📝 I blog [here](https://martinapugliese.github.io/).
 - Any chat you want to have about data vizzing topics or meta-data-science (how is the field evolving, what does it mean etc), I'd love to, please get in touch!
