@@ -1,6 +1,6 @@
 # Speaking
 
-I really enjoy public speaking, I generall speak about data (both from the tech point of view and about the field in general). 
+I really enjoy public speaking, I generally speak about data (both from the tech point of view and about the field in general). 
 
 ## Tech/Data
 
