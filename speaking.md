@@ -5,6 +5,7 @@ I really enjoy public speaking, I generally speak about data (both from the tech
 ## Tech/Data
 
 * *From RAW data to dRAW(n) data - marrying science on data with visualisation*, talk I gave at the [DATA:Scotland](https://www.youtube.com/watch?v=7vQn1UFFGls&t=19s) event, May 2021
+* Talk at the Edinburgh College employability day, Data Science & AI panel, March 2021
 * *Drawing data, from messy ideas to concept and design*, talk at the [Edinburgh Data Visualisation meetup](https://www.meetup.com/meetup-group-vBHbCmgh/events/274944711/), Feb 2021
 * *Is Data Science a mature field yet? A debate over the evolution of this field*, Edinburgh, May 2020 - this was a round table I co-organised and chaired, it was a discussion with various people involved in data where we chatted about the path data science has gone through
 * *Remaining sane in the age of data*, talk at the [**Mode2 meetup**](https://www2.slideshare.net/martinapugliese1800/remaining-sane-in-the-age-of-data), Edinburgh, Nov 2019 - here I was speaking about data bullshit, i.e. how there is so much bad use of data
