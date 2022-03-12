@@ -2,7 +2,7 @@
 
 ## Journals & Proceedings
 
-* S Papadopoulos, C Koutlis, M Pugliese, M Sudheer, D Rabiller, S Papadopoulos and I Kompatsiaris, [**Attentive Hierarchical Label Sharing for Enhanced Garment and Attribute Classification of Fashion Imagery**](https://fashionxrecsys.github.io/fashionxrecsys-2021/), _Third Workshop on Recommender Systems in Fashion, 15th ACM Conference on Recommender Systems_, Amsterdam, Netherlands, 27th September-1st October 2021
+* S Papadopoulos, C Koutlis, M Pugliese, M Sudheer, D Rabiller, S Papadopoulos and I Kompatsiaris, [**Attentive Hierarchical Label Sharing for Enhanced Garment and Attribute Classification of Fashion Imagery**](https://link.springer.com/chapter/10.1007/978-3-030-94016-4_7), _Third Workshop on Recommender Systems in Fashion, 15th ACM Conference on Recommender Systems_, Amsterdam, Netherlands, 27th September-1st October 2021
 * C Cuskley, C Castellano, F Colaiori, V Loreto, M Pugliese, F Tria, [**The regularity game: investigating linguistic rule dynamics in a population of interacting agents**](https://www.sciencedirect.com/science/article/abs/pii/S0010027716302670), _Cognition_ 159, 2017
 * M Pugliese, V Loreto, S Pompei, F Tria, [**Exploring the evolution of pathogens organised in discrete antigenic clusters**](https://iopscience.iop.org/article/10.1088/1742-5468/2016/09/093306/meta), _J Stat Mech_ 093306, 2016
 * C F Cuskley, F Colaiori, C Castellano, V Loreto, M Pugliese, F Tria, [**The Adoption of Linguistic Rules in Native and Non-native Speakers: Evidence from a Wug Task**](https://www.sciencedirect.com/science/article/pii/S0749596X15000790), J of Memory and Language 84, 2015
