@@ -13,7 +13,8 @@ I come from science, having done some academic research (in Physics, but I appli
 ## Projects
 
 - 🎨 I curate a newsletter about data storytelling, with hand-drawn data vizzes and stories around them, you can find it [here](https://doodlingdata.substack.com/)
-- 🖊 I wrote a bunch of notes on data science topics, it's a GitBook called [Tales of Science and Data](https://martinapugliese.gitbook.io/tales-of-science-and-data/).
+- 🔊 I spoke about data in various events, usually around Scotland
+- I enjoy mentoring people about data (both technically and not)
 
 ## Talk to me!
 
