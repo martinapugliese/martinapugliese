@@ -27,6 +27,7 @@ I really enjoy public speaking, I generally speak about data (both from the tech
 
 ## Podcasts & interviews
 
+* S Gatti [interviewed me](https://stefanogatti.substack.com/p/d9a33d3d-ef88-4fde-a7a6-49280a38bd2f) for his newsletter "La cultura del dato" (ITA), June 2023
 * James Le interviewed me for his [DataCast podcast](https://jameskle.com/writes/martina-pugliese), April 2019
 * [A podcast with the Data Lab](https://thedatalab.podbean.com/e/martina-pugliese-data-science-lead-at-mallzee/), Nov 2017
 * *Data Science can be an attractive career for physicists*, [**Physics Today**](http://physicstoday.scitation.org/doi/full/10.1063/PT.3.3261), 69:8, 2016 - I've contributed to the interviews in the article
