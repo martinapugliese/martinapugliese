@@ -32,5 +32,5 @@ Here are some ideas to get you started:
 -->
 
 - 💬 Ask me all about entering data science, what does it mean to be a DS, etc. - I'm happy to provide guidance
-- 📫 How to reach me: [Mastodon](https://mastodon.uno/@martinapugliese) is great! [LinkedIn](https://www.linkedin.com/in/martinapugliese/) works too.
-- 📝 I blog [here](https://martinapugliese.github.io/) and my newsletter is [on Substack](https://doodlingdata.substack.com/)
+- 📫 How to reach me: [Mastodon](https://fosstodon.org/@martinapugliese) is great! [LinkedIn](https://www.linkedin.com/in/martinapugliese/) works too.
+- 📝 I blog [here](https://martinapugliese.github.io/) and my newsletter is [here](https://buttondown.email/martinapugliese)
