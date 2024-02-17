@@ -4,6 +4,7 @@ I really enjoy public speaking, I generally speak about data (both from the tech
 
 ## Tech/Data
 
+* [*Data Doodling with Martina Pugliese - A Talk Python Live Event*](https://www.youtube.com/live/KeegA_uzzSo?si=MfFPtz7fxFhmY5IW), Feb 2024
 * *From RAW data to dRAW(n) data - marrying science on data with visualisation*, talk I gave at the [DATA:Scotland](https://www.youtube.com/watch?v=7vQn1UFFGls&t=19s) event, May 2021
 * Talk at the Edinburgh College employability day, Data Science & AI panel, March 2021
 * *Drawing data, from messy ideas to concept and design*, talk at the [Edinburgh Data Visualisation meetup](https://www.meetup.com/meetup-group-vBHbCmgh/events/274944711/), Feb 2021
