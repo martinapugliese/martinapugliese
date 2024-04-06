@@ -14,7 +14,8 @@ I come from science, having done some academic research (in Physics, but I appli
 
 - 🎨 I curate a newsletter about data storytelling, with hand-drawn data vizzes and stories around them, you can find it [here](https://doodlingdata.substack.com/)
 - 🔊 I spoke about data in various events, usually around Scotland - list [here](https://github.com/martinapugliese/martinapugliese/blob/main/speaking.md)
-- I enjoy mentoring people about data (both technically and not)
+- 👥 I enjoy mentoring people about data (both technically and not)
+- 🔥 I am all about open and accessible data - I volunteer with [OnData](https://github.com/ondata)
 
 ## Talk to me!
 
