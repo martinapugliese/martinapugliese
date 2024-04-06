@@ -4,6 +4,7 @@ I really enjoy public speaking, I generally speak about data (both from the tech
 
 ## Tech/Data
 
+* [*Doodling Data - a tale of hand-drawn data visualisations*](https://ti.to/code-the-city/adm-apr-2024), Aberdeen Data Meetup, April 2024
 * [Data Science is for everyone](https://www.youtube.com/watch?v=QWViWZOxCw8), a (recorded) talk I did for the Women in AI & Data meetup organised by the Data Lab here in Edinburgh, Feb 2024
 * [*Data Doodling with Martina Pugliese - A Talk Python Live Event*](https://www.youtube.com/live/KeegA_uzzSo?si=MfFPtz7fxFhmY5IW), Feb 2024
 * *From RAW data to dRAW(n) data - marrying science on data with visualisation*, talk I gave at the [DATA:Scotland](https://www.youtube.com/watch?v=7vQn1UFFGls&t=19s) event, May 2021
